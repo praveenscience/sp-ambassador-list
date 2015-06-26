@@ -9,7 +9,7 @@
 
   * [Twitter](https://twitter.com/derektskinner)
 	
-	* ###Marc Towler
+* ###Marc Towler
   * [Personal Website](http://marctowler.co.uk)
 
   * [LinkedIn](https://uk.linkedin.com/pub/marc-towler/35/bb9/1a3)
