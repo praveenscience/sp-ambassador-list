@@ -8,6 +8,15 @@
   * [Github](https://github.com/derek-skinner)
 
   * [Twitter](https://twitter.com/derektskinner)
+	
+	* ###Marc Towler
+  * [Personal Website](http://marctowler.co.uk)
+
+  * [LinkedIn](https://uk.linkedin.com/pub/marc-towler/35/bb9/1a3)
+
+  * [Github](https://github.com/MarcTowler)
+
+  * [Twitter](https://twitter.com/marctowler)
 
 * ###Maciej Wilgucki
   * [Personal Website](http://blog.wilgucki.pl)
@@ -18,11 +27,4 @@
 
   * [Twitter](https://twitter.com/wilgucki)
   * 
-* ###Marc Towler
-  * [Personal Website](http://marctowler.co.uk)
 
-  * [LinkedIn](https://uk.linkedin.com/pub/marc-towler/35/bb9/1a3)
-
-  * [Github](https://github.com/MarcTowler)
-
-  * [Twitter](https://twitter.com/marctowler)
