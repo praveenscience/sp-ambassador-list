@@ -26,5 +26,4 @@
   * [Github](https://github.com/wilgucki)
 
   * [Twitter](https://twitter.com/wilgucki)
-  * 
 
