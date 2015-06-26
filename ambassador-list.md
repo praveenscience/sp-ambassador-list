@@ -1,10 +1,10 @@
 # SitePoint Ambassador List
 
-* ###Derek Skinner
-  * [Personal Website](https://derekskinner.tv)
+* ###Maciej Wilgucki
+  * [Personal Website](http://blog.wilgucki.pl)
 
-  * [LinkedIn](https://www.linkedin.com/in/derekts)
+  * [LinkedIn](https://www.linkedin.com/in/maciejwilgucki)
 
-  * [Github](https://github.com/derek-skinner)
+  * [Github](https://github.com/wilgucki)
 
-  * [Twitter](https://twitter.com/derektskinner)
+  * [Twitter](https://twitter.com/wilgucki)
