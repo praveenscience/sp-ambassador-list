@@ -7,8 +7,8 @@ This is an ongoing list of [SitePoint Ambassadors](http://www.sitepoint.com/amba
 
 1. Fork it!
 2. Create a new branch with your name
-2. Add your name and info  to the [ambassador-list.md](ambassador-list.md) file following the template below. (Please try to follow alphabetical order by last name)
-3. Submit a pull request :smiley:
+3. Add your name and info  to the [ambassador-list.md](ambassador-list.md) file following the template below. (Please try to follow alphabetical order by last name)
+4. Submit a pull request :smiley:
 
 If you need help with any of the above steps, please visit the below links:
 
