@@ -27,3 +27,12 @@
 
   * [Twitter](https://twitter.com/wilgucki)
 
+* ###Kingsley Silas
+  * [Personal Website](http://kingsleysilas.wordpress.com)
+
+  * [LinkedIn](https://www.linkedin.com/in/kinsomicrote)
+
+  * [Github](https://github.com/kinsomicrote)
+
+  * [Twitter](https://twitter.com/kingsley_silas)
+
