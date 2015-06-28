@@ -1,5 +1,11 @@
 # SitePoint Ambassador List
+* ###Andrew Latour
+  * [Github](https://github.com/ajlatour)
 
+  * [Twitter](https://twitter.com/ajlatour)
+  
+  *[Google+](https://plus.google.com/u/0/+AndrewLatour1990/about)
+  
 * ###Derek Skinner
   * [Personal Website](https://derekskinner.tv)
 
@@ -35,4 +41,6 @@
   * [Github](https://github.com/kinsomicrote)
 
   * [Twitter](https://twitter.com/kingsley_silas)
+  
+
 
