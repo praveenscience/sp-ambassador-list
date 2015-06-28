@@ -4,7 +4,16 @@
 
   * [Twitter](https://twitter.com/ajlatour)
   
-  *[Google+](https://plus.google.com/u/0/+AndrewLatour1990/about)
+  * [Google+](https://plus.google.com/u/0/+AndrewLatour1990/about)
+  
+* ###Kingsley Silas
+  * [Personal Website](http://kingsleysilas.wordpress.com)
+
+  * [LinkedIn](https://www.linkedin.com/in/kinsomicrote)
+
+  * [Github](https://github.com/kinsomicrote)
+
+  * [Twitter](https://twitter.com/kingsley_silas)
   
 * ###Derek Skinner
   * [Personal Website](https://derekskinner.tv)
@@ -33,14 +42,6 @@
 
   * [Twitter](https://twitter.com/wilgucki)
 
-* ###Kingsley Silas
-  * [Personal Website](http://kingsleysilas.wordpress.com)
 
-  * [LinkedIn](https://www.linkedin.com/in/kinsomicrote)
-
-  * [Github](https://github.com/kinsomicrote)
-
-  * [Twitter](https://twitter.com/kingsley_silas)
-  
 
 
