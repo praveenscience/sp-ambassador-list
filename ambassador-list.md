@@ -1,4 +1,14 @@
 # SitePoint Ambassador List
+
+* ###Sebastian Lacle
+  * [Personal Website](http://www.slacle.com/)
+
+  * [LinkedIn](https://www.linkedin.com/in/slacle)
+
+  * [Github](https://github.com/slacle)
+
+  * [Twitter](https://twitter.com/_slacle)
+
 * ###Andrew Latour
   * [Github](https://github.com/ajlatour)
 
