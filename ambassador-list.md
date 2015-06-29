@@ -41,7 +41,17 @@
   * [Github](https://github.com/wilgucki)
 
   * [Twitter](https://twitter.com/wilgucki)
+  
+* ###Destiya
+  * [Personal Website](http://destiyadian.com)
+  
+  * [LinkedIn](https://id.linkedin.com/pub/destiya-wijayanto/19/668/48a)
 
+  * [Github](https://github.com/eantz)
+  
+  * [Twitter](https://twitter.com/eantz)
+  
+  
 
 
 
