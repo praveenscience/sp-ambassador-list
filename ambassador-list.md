@@ -1,5 +1,12 @@
 # SitePoint Ambassador List
 
+* ###Mika Kalathil
+  * [Personal Website](mikakalathil.ca)
+
+  * [LinkedIn](https://www.linkedin.com/in/mikakalathil)
+
+  * [Github](github.com/mikaak)
+
 * ###Sebastian Lacle
   * [Personal Website](http://www.slacle.com/)
 
@@ -61,9 +68,4 @@
 
   * [Twitter](https://twitter.com/wilgucki)
 
-* ###Mika Kalathil
-  * [Personal Website](mikakalathil.ca)
 
-  * [LinkedIn](ca.linkedin.com/in/mikakalathil)
-
-  * [Github](github.com/mikaak)
