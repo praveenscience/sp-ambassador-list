@@ -40,6 +40,15 @@
   * [Github](https://github.com/derek-skinner)
 
   * [Twitter](https://twitter.com/derektskinner)
+  
+* ###Tim Severien
+  * [Personal Website](https://timseverien.com)
+
+  * [LinkedIn](https://www.linkedin.com/in/timseverien)
+  
+  * [GitHub](https://github.com/timseverien)
+  
+  * [Twitter](https://twitter.com/TimSeverien)
 	
 * ###Marc Towler
   * [Personal Website](http://marctowler.co.uk)
