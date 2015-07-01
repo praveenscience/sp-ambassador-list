@@ -59,6 +59,15 @@
 
   * [Twitter](https://twitter.com/marctowler)
 
+* ###Panayiotis Velisarakos
+  * [Personal Website](http://www.pvgr.eu/en/)
+
+  * [LinkedIn](http://gr.linkedin.com/in/panayiotisvelisarakos)
+
+  * [Github](https://github.com/pvgr)
+
+  * [Twitter](https://twitter.com/PV_gr)
+
 * ###Destiya Wijayanto
   * [Personal Website](http://destiyadian.com)
   
