@@ -23,6 +23,17 @@
   
   * [Google+](https://plus.google.com/u/0/+AndrewLatour1990/about)
   
+* ###Praveen Kumar Purushothaman
+  * [Personal Website](http://praveen-kumar.org)
+
+  * [LinkedIn](https://uk.linkedin.com/in/praveentech)
+
+  * [Github](https://github.com/praveenscience)
+
+  * [Twitter](https://twitter.com/praveenscience/)
+
+  * [Google+](https://plus.google.com/u/0/+PraveenKumarPurush/about)
+
 * ###Kingsley Silas
   * [Personal Website](http://kingsleysilas.wordpress.com)
 
