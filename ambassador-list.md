@@ -24,7 +24,7 @@
   * [Google+](https://plus.google.com/u/0/+AndrewLatour1990/about)
   
 * ###Praveen Kumar Purushothaman
-  * [Personal Website](http://praveen-kumar.org)
+  * [Personal Website](https://praveen.science/)
 
   * [LinkedIn](https://uk.linkedin.com/in/praveentech)
 
